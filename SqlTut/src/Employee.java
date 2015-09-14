@@ -8,6 +8,9 @@ public class Employee {
 		lName = aLName;
 		salary = aSalary;
 	}
+
+	Public Employee() {
+	}
 	
 	public double getSalary() {
 		return salary;
